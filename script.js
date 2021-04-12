@@ -240,8 +240,8 @@ let maze11 = [
 ];
 
 //global variables
-let currentLevel = maze1;
-let levels = [maze1, maze2, maze3, ];
+let currentLevel = maze4;
+let levels = [maze4, maze6, maze8, ];
 let body = document.querySelector('body');
 let divTable = document.getElementById('cover');
 let tableEl = document.querySelector('table');
