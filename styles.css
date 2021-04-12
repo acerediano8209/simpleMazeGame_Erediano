@@ -44,8 +44,8 @@ div#cover {
   width: 20px;
   height: 20px;
   display: block;
-  background-color: black;
-  color: black;
+  background-color: white;
+  color: white;
   z-index: 10000;
 }
 
@@ -95,13 +95,13 @@ td {
 }
 
 .wall {
-  color:purple;
-  background-color: red;
+  color:White;
+  background-color: white;
 }
 
 .freespace {
-  color:blue;
-  background-color: blue;
+  color:black;
+  background-color: black;
 }
 
 #start {
